@@ -5,9 +5,9 @@
 #include <stdio.h>
 #include <math.h>
 
-#include "../colors.h"
+#include "../headers/colors.h"
 
-int main()
+int main(void)
 {
     float peso, altura, imc;
 
