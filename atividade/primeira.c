@@ -1,3 +1,7 @@
+// Atividade - 1º questão
+// Autor: Leonardo Monteiro Moreira
+// Matrícula: 202402658328
+
 #include <stdio.h>
 #include <stdlib.h>
 
